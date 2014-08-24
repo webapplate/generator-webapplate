@@ -2,6 +2,8 @@
 
 > [Yeoman](http://yeoman.io) generator for webapp
 
+NOTE: This generator is still in development phase. Don't use this if you are not willing to debug the framework itself.
+
 
 ## Getting Started
 
